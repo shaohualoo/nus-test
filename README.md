@@ -8,3 +8,5 @@ Some random text
 * one more
 
 ### mini mini headline
+
+![](sentosa.jpeg)
